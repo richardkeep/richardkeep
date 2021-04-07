@@ -8,4 +8,4 @@ $me = Developer::create([
 ]);
 ```
 
-[![Niels's github stats](https://github-readme-stats.vercel.app/api?username=richardkeep&hide=stars,issues&show_icons=true&count_private=true)](https://github.com/richardkeep/github-readme-stats)
+[![Niels's github stats](https://github-readme-stats.vercel.app/api?username=richardkeep&show_icons=true&count_private=true)](https://github.com/richardkeep/github-readme-stats)
